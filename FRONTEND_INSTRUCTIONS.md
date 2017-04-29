@@ -256,7 +256,7 @@ Alternatively, if you want to make modifications to the theme, check out the [th
           <button class="btn btn-sm btn-outline-secondary action-btn">
             <i class="ion-plus-round"></i>
             &nbsp;
-            Follow Eric Simons 
+            Follow Eric Simons <span class="counter">(10)</span>
           </button>
         </div>
 
@@ -271,10 +271,10 @@ Alternatively, if you want to make modifications to the theme, check out the [th
         <div class="articles-toggle">
           <ul class="nav nav-pills outline-active">
             <li class="nav-item">
-              <a class="nav-link active" href="">My Posts</a>
+              <a class="nav-link active" href="">My Articles</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="">Favorited Posts</a>
+              <a class="nav-link" href="">Favorited Articles</a>
             </li>
           </ul>
         </div>
